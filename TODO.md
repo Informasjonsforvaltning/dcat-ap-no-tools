@@ -1,0 +1,1 @@
+- [ ] Consider GitHub Actions/Registry. Note: It is possible to have more than one workflow in a repository, cf <https://help.github.com/en/articles/configuring-a-workflow#filtering-for-specific-branches-tags-and-paths>
